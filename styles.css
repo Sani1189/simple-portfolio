@@ -12,7 +12,7 @@ body {
     color: #000;
   }
   .sec{
-    max-width: 1120px;
+    width:90%;
   padding: 50px 10px;
   margin: auto;
   justify-content: center;
@@ -29,7 +29,8 @@ body {
   
   .sec2{
     margin: auto;
-    width: 80%;
+    width: 90%;
+    padding:10px;
     justify-content: center;
   }
   .sub-sec2{
@@ -47,6 +48,6 @@ body {
     width: 30px;
   }
   .footer{
-    margin: 100px auto 50px 10%;
+    margin: 100px auto 50px 5%;
     
   }
